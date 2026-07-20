@@ -191,3 +191,168 @@
 💡 Collaborated on process improvement initiatives, identifying opportunities for automation and operational efficiency.
 
 </div>
+
+
+
+**<br>
+
+---
+
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+> *A selection of projects that reflect my learning journey, professional experience, and passion for software development.*
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI ChatBot
+
+An intelligent chatbot developed with JavaScript, capable of interacting naturally with users through AI integration.
+
+### ✨ Highlights
+
+- 🤖 AI-powered conversations
+- 💬 Interactive chat interface
+- ⚡ Fast responses
+- 🎨 Modern and responsive UI
+- 🔗 API Integration
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🍔 FastRequest
+
+Graduation project developed during my Software Development Technology program.
+
+### ✨ Highlights
+
+- 🍟 Fast food management
+- 📦 Product management
+- 🛒 Order management
+- 👥 User management
+- 🔒 Authentication system
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Private-important?style=flat-square)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Personal Portfolio
+
+Personal portfolio created to showcase my projects, technologies and professional profile.
+
+### ✨ Highlights
+
+- 📱 Responsive Design
+- ⚡ Fast Loading
+- 🎨 Modern UI
+- 🌙 Clean Design
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎨 UI Practice Projects
+
+A collection of frontend projects created while learning and practicing modern web development.
+
+### ✨ Includes
+
+- 🛒 Shopping Cart
+- 📄 Contact Forms
+- 🎯 Landing Pages
+- 🎨 CSS Components
+- 📱 Responsive Layouts
+
+### 🛠️ Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<br>
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| 💡 Focus | 🚀 Goal |
+|:---------|:---------|
+| ⚡ Power Automate | Advanced Business Automation |
+| 🧪 Playwright | End-to-End Testing |
+| ☁️ Azure DevOps | DevOps & CI/CD |
+| ⚛️ React | Modern Frontend Development |
+| 🟢 Node.js | Backend Development |
+| 🐳 Docker | Containerized Applications |
+| 🤖 Artificial Intelligence | AI-powered Applications |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🎯 2026 Goals
+
+- 🚀 Build more real-world Full Stack applications.
+- ☁️ Earn Microsoft Azure certifications.
+- 🤖 Develop AI-powered solutions.
+- 🧪 Improve QA Automation skills with Playwright.
+- 📦 Learn CI/CD pipelines and DevOps best practices.
+- 🌍 Contribute to Open Source projects.
+- 💼 Continue growing as a Software Developer.
+**
