@@ -151,20 +151,7 @@
 
 <br>
 
- <hr>
-
-
-
-
-
-
-<br>
-
   
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
