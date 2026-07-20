@@ -12,9 +12,17 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/in/luis-angel-suarez-quintero-286475334/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisangelsuarezquintero7@gmail.com)
+<a href="https://github.com/Luisito241">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luis-angel-suarez-quintero-286475334/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:luisangelsuarezquintero7@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
